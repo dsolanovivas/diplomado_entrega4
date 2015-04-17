@@ -1,0 +1,9 @@
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\bin\Debug\Objetos.exe.config
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\bin\Debug\Objetos.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\bin\Debug\Objetos.pdb
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\obj\Debug\Objetos.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\obj\Debug\Objetos.Form1.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\obj\Debug\Objetos.Properties.Resources.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\obj\Debug\Objetos.csproj.GenerateResource.Cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\obj\Debug\Objetos.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\Objetos\Objetos\obj\Debug\Objetos.pdb

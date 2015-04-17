@@ -1,0 +1,9 @@
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\bin\Debug\cbxLabel.exe.config
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\bin\Debug\cbxLabel.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\bin\Debug\cbxLabel.pdb
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\obj\Debug\cbxLabel.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\obj\Debug\cbxLabel.Form1.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\obj\Debug\cbxLabel.Properties.Resources.resources
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\obj\Debug\cbxLabel.csproj.GenerateResource.Cache
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\obj\Debug\cbxLabel.exe
+c:\users\lab104bpc18\documents\visual studio 2012\Projects\cbxLabel\cbxLabel\obj\Debug\cbxLabel.pdb
